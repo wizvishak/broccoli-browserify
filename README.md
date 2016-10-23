@@ -1,3 +1,5 @@
+#### :warning: Deprecated in favor of [broccoli-watchify](https://github.com/eploko/broccoli-watchify)  
+
 # broccoli-browserify
 
 Use `require('modules')` in the browser with
