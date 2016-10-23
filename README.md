@@ -1,4 +1,4 @@
-# brocolli-browserify
+# broccoli-browserify
 
 Use `require('modules')` in the browser with
 [browersify](https://https://github.com/substack/node-browserify)
